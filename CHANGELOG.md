@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-spanner/#history
 
+## [3.15.2](https://github.com/googleapis/python-spanner/compare/v3.15.1...v3.15.2) (2022-07-05)
+
+
+### Bug Fixes
+
+* add pause for the staleness test ([#762](https://github.com/googleapis/python-spanner/issues/762)) ([bb7f1db](https://github.com/googleapis/python-spanner/commit/bb7f1db57a0d06800ff7c81336756676fc7ec109))
+
 ## [3.15.1](https://github.com/googleapis/python-spanner/compare/v3.15.0...v3.15.1) (2022-06-17)
 
 
